@@ -1,4 +1,4 @@
-This is a minimal reproducible example of a vanilla-extract issue with NextJs 13 App directory.
+This is a minimal reproducible example of a vanilla-extract sprinkles issue with NextJs 13 App directory.
 
 At its current state, running the application in production (`npm run build` + `npm run start`) does not apply the sprinkles styles. During local development builds (`npm run dev`) sprinkles work appropriately.
 
